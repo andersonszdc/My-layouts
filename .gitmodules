@@ -1,0 +1,3 @@
+[submodule "space-tourism"]
+	path = space-tourism
+	url = https://github.com/andersonszdc/Space-tourism
